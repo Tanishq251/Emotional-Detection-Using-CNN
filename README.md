@@ -35,6 +35,8 @@ Ensure you have the following installed on your system:
 3. **Download Pretrained Models:**
    Download the pretrained models and place them in the `models` directory. (You can find the links to the pretrained models in the repository).
 
+   https://drive.google.com/file/d/1vyw7pEfaNVjN0nyDjjDa7o7He_SCYc76/view?usp=sharing
+
 
 ### Running the Emotion Detection
 
